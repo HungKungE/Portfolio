@@ -1,5 +1,5 @@
 # 박상찬 Portfolio
----
+
 ### Intro
 안녕하세요. 백엔드 개발자를 꿈꾸는 박상찬입니다.
 
@@ -59,9 +59,7 @@
 
 ## Project
 
----
-
-##### 1. [태블릿 전용 문제집 사이트]()
+### 1. [태블릿 전용 문제집 사이트]()
 
 태블릿의 터치펜을 사용해서 문제집의 문제를 풀고 채점 하는 사이트.
 이외에도 학업에 도움을 주는 여러 서비스를 제공한다.
@@ -84,7 +82,7 @@ React, Typescript, Tailwind-Css, Rust, NginX, PostgreSQL
 
 ---
 
-##### 2. [필기 노트 + 커뮤니티]()
+### 2. [필기 노트 + 커뮤니티]()
 
 아이패드의 notability, GoodNotes 처럼 필기 기능을 제공하는 사이트.
 추가로 이런 필기 파일을 다른 사용자들과 공유하거나,
@@ -107,7 +105,7 @@ React, Typescript, Tailwind-Css, Rust, NginX, PostgreSQL
 
 ---
 
-##### 3. [FindVibe - 사진 촬영 위치 예측 웹 서비스](https://github.com/HungKungE/FINDVIBE)
+### 3. [FindVibe - 사진 촬영 위치 예측 웹 서비스](https://github.com/HungKungE/FINDVIBE)
 
 딥러닝을 통해서 사진을 분석하여 사진을 촬영한 위치를 예측한다.
 찍힌 곳의 위치가 아닌, 그 사진을 찍은 사람의 위치나 방향정보를
@@ -135,7 +133,7 @@ React, Typescript, Tailwind-Css, NodeJs, Python, MySQL, AWS, Docker
 |BE|File api|Image 제공|
 ---
 
-##### 4. [KeywordKatch - 키워드 기반 기사 추천 웹 서비스](https://github.com/HungKungE/KeywordKatch-Publisher)
+### 4. [KeywordKatch - 키워드 기반 기사 추천 웹 서비스](https://github.com/HungKungE/KeywordKatch-Publisher)
 하루에 수많은 기사가 갱신되는 시대에 맞춰
 내가 관심있는 정보를 담은 기사를 골라서 이메일로 알림을 주는
 웹 서비스이다.
@@ -150,18 +148,16 @@ React, Typescript, Tailwind-Css, Spring, Python, AWS, RDS, Docker, MSA
 ```
 
 **주요 개발 내용**
-|내 역할|개발 내용| 상세 설명 |
+|내 역할|사용 스킬| 개발 내용 |
 | ----- | ------ | ------ |
-|BE|Auth api|회원가입, 로그인, 로그아웃, 유효성 검사|
-|BE|User api|닉네임 중복 확인, 닉네임과 비밀번호 수정|
-|BE|Predict api-1|Google Cloud Vision Api를 통한 사진 위치 예측|
-|BE|Predict api-2|Python 딥러닝모델을 통한 사진 위치 예측 요청|
-|BE|Predict api-3|예측 요청 Log|
-|BE|File|Image 제공|
+|publisher|HTML| 기사 내용을 담을 이메일 폼을 생성|
+|publisher|SMTP| 이메일 서버 연결, 이메일 전송|
+|publisher|Flask| publisher server 구현, client에 기사 내용 전달|
+
 
 ---
 
-##### 5. [WiseConnect - 중장년층 취업 매칭 사이트]()
+### 5. [WiseConnect - 중장년층 취업 매칭 사이트]()
 
 취업 시장에서 약자인 정년퇴직자들의 재취업 매칭을 통해 사회적인 문제를 해결하고자 개발한 사이트.
 
