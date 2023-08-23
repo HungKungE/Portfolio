@@ -157,7 +157,7 @@ React, Typescript, Tailwind-Css, Spring, Python, AWS, RDS, Docker, MSA
 
 ---
 
-### 5. [WiseConnect - 중장년층 취업 매칭 사이트]()
+### 5. [WiseConnect - 중장년층 취업 매칭 사이트](https://github.com/HungKungE/WiseConnect)
 
 취업 시장에서 약자인 정년퇴직자들의 재취업 매칭을 통해 사회적인 문제를 해결하고자 개발한 사이트.
 
