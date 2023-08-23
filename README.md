@@ -6,27 +6,54 @@
 ---
 
 ### Contact
-E-mail : jonsun59@gmail.com
-GitHub : https://github.com/HungKungE
-Phone : 010-6336-5171
+
+- E-mail : jonsun59@gmail.com
+- GitHub : https://github.com/HungKungE
+- Phone : 010-6336-5171
 
 ---
 
 ### Skills
 - 개발 언어
-JavaScript, Typescript, Rust, Python
+<div>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
+  <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white">
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+</div>
+</br>
 
-- 프레임워크
-NodeJs : Express,  Rust : actix-web, Python : Flask
+- 프레임워크 & 라이브러리
+<div>
+  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
+  <img src="https://img.shields.io/badge/Express-339933?style=for-the-badge&logo=Node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/actix_web-000000?style=for-the-badge&logo=rust&logoColor=white">
+  <img src="https://img.shields.io/badge/Flask-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+</div>
+</br>
 
 - SQL
-MYSQL, PostgreSql
+<div>
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+</div>
+</br>
 
 - DevOps
-AWS(EC2, RDS)
+<div>
+  <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white">
+</div>
+</br>
 
 - 협업
-GitHub, Google Docs, Google Sheets, Figma
+<div>
+  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/docs-4285F4?style=for-the-badge&logo=google&logoColor=white">
+  <img src="https://img.shields.io/badge/sheets-34A853?style=for-the-badge&logo=google&logoColor=white">
+  <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+  <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+</div>
+</br>
 
 ---
 
