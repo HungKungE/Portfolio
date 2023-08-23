@@ -41,7 +41,7 @@
 
 - DevOps
 <div>
-  <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white">
+  <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazon&logoColor=white">
 </div>
 </br>
 
@@ -107,7 +107,7 @@ React, Typescript, Tailwind-Css, Rust, NginX, PostgreSQL
 
 ---
 
-##### 3. [FindVibe - 사진 촬영 위치 예측 웹 서비스](https://github.com/KW-FINDVIBE/FINDVIBE)
+##### 3. [FindVibe - 사진 촬영 위치 예측 웹 서비스](https://github.com/HungKungE/FINDVIBE)
 
 딥러닝을 통해서 사진을 분석하여 사진을 촬영한 위치를 예측한다.
 찍힌 곳의 위치가 아닌, 그 사진을 찍은 사람의 위치나 방향정보를
@@ -130,8 +130,9 @@ React, Typescript, Tailwind-Css, NodeJs, Python, MySQL, AWS, Docker
 |BE|User api|닉네임 중복 확인, 닉네임과 비밀번호 수정|
 |BE|Predict api-1|Google Cloud Vision Api를 통한 사진 위치 예측|
 |BE|Predict api-2|Python 딥러닝모델을 통한 사진 위치 예측 요청|
-|BE|Predict api-3|예측 요청 Log|
-|BE|File|Image 제공|
+|BE|Predict api-3|예측 요청 시, 전달받은 이미지 관리|
+|BE|Predict api-4|예측 요청 Log 생성, 열람|
+|BE|File api|Image 제공|
 ---
 
 ##### 4. [KeywordKatch - 키워드 기반 기사 추천 웹 서비스]()
