@@ -82,7 +82,7 @@ React, Typescript, Tailwind-Css, Rust, NginX, PostgreSQL
 
 ---
 
-### 2. [필기 노트 + 커뮤니티]()
+### 2. [필기 노트 + 커뮤니티](https://github.com/HungKungE/Jogiyo-v3)
 
 아이패드의 notability, GoodNotes 처럼 필기 기능을 제공하는 사이트.
 추가로 이런 필기 파일을 다른 사용자들과 공유하거나,
