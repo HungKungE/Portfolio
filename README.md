@@ -107,7 +107,7 @@ React, Typescript, Tailwind-Css, Rust, NginX, PostgreSQL
 
 ---
 
-##### 3. [FindVibe - 사진 촬영 위치 예측 웹 서비스]()
+##### 3. [FindVibe - 사진 촬영 위치 예측 웹 서비스](https://github.com/KW-FINDVIBE/FINDVIBE)
 
 딥러닝을 통해서 사진을 분석하여 사진을 촬영한 위치를 예측한다.
 찍힌 곳의 위치가 아닌, 그 사진을 찍은 사람의 위치나 방향정보를
