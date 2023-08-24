@@ -140,7 +140,7 @@ React, Typescript, Tailwind-Css, NodeJs, Python, MySQL, AWS, Docker
 
 |개발 기간 | 2023.03 - 2023.06|
 | ------ | ------ |
-|서비스 | 사용자 정보 입력, 사용자 조건 검색, 사용자 간의 대화| 
+|서비스 | 관심 키워드 등록, 삭제, 기사 이메일 전송, 키워드 관련 기사 제공| 
 
 **사용 Skills**
 ```sh
