@@ -1,19 +1,13 @@
-# 박상찬 Portfolio
-
-### Intro
+## Intro
 안녕하세요. 백엔드 개발자를 꿈꾸는 박상찬입니다.
 
----
-
-### Contact
+## Contact
 
 - E-mail : jonsun59@gmail.com
 - GitHub : https://github.com/HungKungE
 - Phone : 010-6336-5171
 
----
-
-### Skills
+## Skills
 - 개발 언어
 <div>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
@@ -27,8 +21,6 @@
 <div>
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
   <img src="https://img.shields.io/badge/Express-339933?style=for-the-badge&logo=Node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/actix_web-000000?style=for-the-badge&logo=rust&logoColor=white">
-  <img src="https://img.shields.io/badge/Flask-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
 </div>
 </br>
 
@@ -51,74 +43,51 @@
   <img src="https://img.shields.io/badge/docs-4285F4?style=for-the-badge&logo=google&logoColor=white">
   <img src="https://img.shields.io/badge/sheets-34A853?style=for-the-badge&logo=google&logoColor=white">
   <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-  <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 </div>
 </br>
 
----
-
 ## Project
 
-### 1. [태블릿 전용 문제집 사이트](https://github.com/HungKungE/Jogiyo-v2)
+### 1. [모두의 코드/Jogiyo project](https://github.com/HungKungE/Jogiyo-project) (클릭 시, 이동)
 
-태블릿의 터치펜을 사용해서 문제집의 문제를 풀고 채점 하는 사이트.
-이외에도 학업에 도움을 주는 여러 서비스를 제공한다.
+스타트업 "모두의 코드"에서 함께 진행했던 Jogiyo 프로젝트입니다.
+</br>
 
-| 개발 기간 | 2022.08 - 2022.10 |
-| ------ | ------ |
-| 서비스 | 문제 풀기, 문제집 검색, 오답노트, 일일 단어장(커리큘럼) 등 |
-| 사용 문제집 | EBS수능특강, 수능완성, 평가원 시험지 등 |
+#### 프로젝트 소개
 
-**사용 Skills**
+| 프로젝트 | 개발 기간 | 주요 서비스 |
+| ------ | ------ | ----- |
+| 태블릿 전용 문제집 웹 사이트 | 2022.08 ~ 2022.12  | 문제 풀기, 문제집 검색, 오답노트, 일일 단어장(커리큘럼) 등 |
+| 노트필기 및 공유 커뮤니티 | 2023.01 ~ 2023.03 | 필기, 개인 필기 관리, 필기 공유, 사용자 그룹(커뮤니티) |
+
+#### 사용 Skills
 ```sh
-React, Typescript, Tailwind-Css, Rust, NginX, PostgreSQL
+React, Typescript, Redux, Tailwind-Css, Rust, sea-ORM, actix-web, NginX, PostgreSQL, Docker...
 ```
+#### 나의 기여
 
-**주요 개발 내용**
-|내 역할|개발 내용| 상세 설명 |
-| ----- | ------ | ------ |
-|FE|페이지 디자인|문제집 검색 페이지, 회원정보 입력 페이지|
-|BE|커리큘럼 api| 커리큘럼 추가, 수정, 삭제, 열람 |
+| 프로젝트 | 역할 | 개발 내용 |
+| ------ | ------ | ----- |
+| 태블릿 전용 문제집 웹 사이트 | FE | 사용자 정보 입력 페이지, 문제집 검색 페이지 |
+| 태블릿 전용 문제집 웹 사이트 | BE | curriculum, vocabulary, workbook, user, school api 일부 개발 |
+| 노트필기 및 공유 커뮤니티 | FE | 전반적인 디자인 수정, pdf 화질 저하 문제 해결 |
+| 노트필기 및 공유 커뮤니티 | BE | user file, user group api 일부 개발 및 문제점 해결 |
 
----
+### 2. [FindVibe - 사진 촬영 위치 예측 웹 서비스](https://github.com/HungKungE/FINDVIBE) (클릭 시, 이동)
 
-### 2. [필기 노트 + 커뮤니티](https://github.com/HungKungE/Jogiyo-v3)
+광운대학교 4학년 1학기, 참빛설계학기 프로젝트이다.
+주제는 딥러닝을 통해서 사진을 분석하여 사진을 촬영한 위치를 예측하는 웹 서비스이다.
+찍힌 곳의 위치가 아닌, 그 사진을 찍은 사람의 위치나 방향정보를 예측하므로 같은 구도로 사진을 찍고 싶어하는 사람들에게 유용한 정보를 제공할수 있다.
 
-아이패드의 notability, GoodNotes 처럼 필기 기능을 제공하는 사이트.
-추가로 이런 필기 파일을 다른 사용자들과 공유하거나,
-일상 이야기를 나누는 커뮤니티의 기능도 가지고 있다.
+#### 프로젝트 소개
 
-| 개발 기간 | 2022.10 - 2022.12 |
-| ------ | ------ |
-| 서비스 | 필기, 개인 필기 관리, 필기 공유, 사용자 그룹(커뮤니티)|
-
-**사용 Skills**
-```sh
-React, Typescript, Tailwind-Css, Rust, NginX, PostgreSQL
-```
-
-**주요 개발 내용**
-|내 역할|개발 내용| 상세 설명 |
-| ----- | ------ | ------ |
-|FE|페이지 디자인|개인 필기 노트 페이지, 사용자 그룹 페이지|
-|BE|사용자 필기 노트 api| 노트 추가, 삭제, 열람, 수정|
-
----
-
-### 3. [FindVibe - 사진 촬영 위치 예측 웹 서비스](https://github.com/HungKungE/FINDVIBE)
-
-딥러닝을 통해서 사진을 분석하여 사진을 촬영한 위치를 예측한다.
-찍힌 곳의 위치가 아닌, 그 사진을 찍은 사람의 위치나 방향정보를
-예측하므로 같은 구도로 사진을 찍고 싶어하는 사람들에게
-유용한 정보를 제공할수 있다.
-
-|개발 기간 | 2023.03 - 2023.06|
-| ------ | ------ |
-|서비스 | 사진 업로드, 사진 촬영 장소 예측 | 
+| 프로젝트 | 개발 기간 | 주요 서비스 |
+| ------ | ------ | ----- |
+| 사진 촬영 위치 예측 웹 서비스 | 2023.03 ~ 2023.06  | 사진 촬영 장소 예측 | 
 
 **사용 Skills**
 ```sh
-React, Typescript, Tailwind-Css, NodeJs, Python, MySQL, AWS, Docker
+React, Typescript, Tailwind-Css, NodeJs, Express, sequelize, Python, Flask, MySQL, AWS, Docker
 ```
 
 **주요 개발 내용**
@@ -133,14 +102,14 @@ React, Typescript, Tailwind-Css, NodeJs, Python, MySQL, AWS, Docker
 |BE|File api|Image 제공|
 ---
 
-### 4. [KeywordKatch - 키워드 기반 기사 추천 웹 서비스](https://github.com/HungKungE/KeywordKatch-Publisher)
+### 3. [KeywordKatch - 키워드 기반 기사 추천 웹 서비스](https://github.com/HungKungE/KeywordKatch-Publisher) (클릭 시, 이동)
 하루에 수많은 기사가 갱신되는 시대에 맞춰
-내가 관심있는 정보를 담은 기사를 골라서 이메일로 알림을 주는
-웹 서비스이다.
+내가 관심있는 정보를 담은 기사를 골라서 일정 시간마다 이메일로 전송해주는 웹 서비스이다.
 
-|개발 기간 | 2023.03 - 2023.06|
-| ------ | ------ |
-|서비스 | 관심 키워드 등록, 삭제, 기사 이메일 전송, 키워드 관련 기사 제공| 
+| 프로젝트 | 개발 기간 | 주요 서비스 |
+| ------ | ------ | ----- |
+| 키워드 기반 기사 추천 웹 서비스 | 2023.03 ~ 2023.06  | 관심 키워드 등록, 삭제, 기사 이메일 전송, 키워드 관련 기사 제공 | 
+
 
 **사용 Skills**
 ```sh
@@ -150,29 +119,7 @@ React, Typescript, Tailwind-Css, Spring, Python, AWS, RDS, Docker, MSA
 **주요 개발 내용**
 |내 역할|사용 스킬| 개발 내용 |
 | ----- | ------ | ------ |
-|publisher|HTML| 기사 내용을 담을 이메일 폼을 생성|
-|publisher|SMTP| 이메일 서버 연결, 이메일 전송|
-|publisher|Flask| publisher server 구현, client에 기사 내용 전달|
+|publisher|HTML, Python| 기사 내용을 담을 이메일 폼 추가, 이메일 폼 동적 생성 |
+|publisher|Python, SMTP| 이메일 서버 연결, 이메일 전송|
+|publisher|Python, Flask| publisher server 구현, client에 기사 내용 전달|
 
-
----
-
-### 5. [WiseConnect - 중장년층 취업 매칭 사이트](https://github.com/HungKungE/WiseConnect)
-
-취업 시장에서 약자인 정년퇴직자들의 재취업 매칭을 통해 사회적인 문제를 해결하고자 개발한 사이트.
-
-|개발 기간 | 2023.06 - 2023.07|
-| ------ | ------ |
-|서비스 | 사용자 정보 입력, 사용자 조건 검색, 사용자 간의 대화| 
-
-**사용 Skills**
-```sh
-React, Typescript, Tailwind-Css, Rust, NginX, PostgreSQL
-```
-
-**주요 개발 내용**
-|내 역할|개발 내용| 상세 설명 |
-| ----- | ------ | ------ |
-|BE|User api| 사용자 정보 열람, 수정|
-|BE|User api| 사용자 조건 검색|
----
