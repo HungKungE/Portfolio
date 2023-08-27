@@ -100,7 +100,6 @@ React, Typescript, Tailwind-Css, NodeJs, Express, sequelize, Python, Flask, MySQ
 |BE|Predict api-3|예측 요청 시, 전달받은 이미지 관리|
 |BE|Predict api-4|예측 요청 Log 생성, 열람|
 |BE|File api|Image 제공|
----
 
 ### 3. [KeywordKatch - 키워드 기반 기사 추천 웹 서비스](https://github.com/HungKungE/KeywordKatch-Publisher) (클릭 시, 이동)
 하루에 수많은 기사가 갱신되는 시대에 맞춰
