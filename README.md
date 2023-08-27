@@ -48,6 +48,9 @@
 
 ## Project
 
+</br>
+</br>
+
 ### 1. [모두의 코드/Jogiyo project](https://github.com/HungKungE/Jogiyo-project) (클릭 시, 이동)
 
 스타트업 "모두의 코드"에서 함께 진행했던 Jogiyo 프로젝트입니다.
@@ -72,6 +75,9 @@ React, Typescript, Redux, Tailwind-Css, Rust, sea-ORM, actix-web, NginX, Postgre
 | 태블릿 전용 문제집 웹 사이트 | BE | curriculum, vocabulary, workbook, user, school api 일부 개발 |
 | 노트필기 및 공유 커뮤니티 | FE | 전반적인 디자인 수정, pdf 화질 저하 문제 해결 |
 | 노트필기 및 공유 커뮤니티 | BE | user file, user group api 일부 개발 및 문제점 해결 |
+
+</br>
+</br>
 
 ### 2. [FindVibe - 사진 촬영 위치 예측 웹 서비스](https://github.com/HungKungE/FINDVIBE) (클릭 시, 이동)
 
@@ -100,6 +106,9 @@ React, Typescript, Tailwind-Css, NodeJs, Express, sequelize, Python, Flask, MySQ
 |BE|Predict api-3|예측 요청 시, 전달받은 이미지 관리|
 |BE|Predict api-4|예측 요청 Log 생성, 열람|
 |BE|File api|Image 제공|
+
+</br>
+</br>
 
 ### 3. [KeywordKatch - 키워드 기반 기사 추천 웹 서비스](https://github.com/HungKungE/KeywordKatch-Publisher) (클릭 시, 이동)
 하루에 수많은 기사가 갱신되는 시대에 맞춰
