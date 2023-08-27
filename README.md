@@ -90,7 +90,7 @@ React, Typescript, Redux, Tailwind-Css, Rust, sea-ORM, actix-web, NginX, Postgre
 React, Typescript, Tailwind-Css, NodeJs, Express, sequelize, Python, Flask, MySQL, AWS, Docker
 ```
 
-**주요 개발 내용**
+**나의 기여**
 |내 역할|개발 내용| 상세 설명 |
 | ----- | ------ | ------ |
 |BE|Auth api|회원가입, 로그인, 로그아웃, 유효성 검사|
@@ -116,7 +116,7 @@ React, Typescript, Tailwind-Css, NodeJs, Express, sequelize, Python, Flask, MySQ
 React, Typescript, Tailwind-Css, Spring, Python, AWS, RDS, Docker, MSA
 ```
 
-**주요 개발 내용**
+**나의 기여**
 |내 역할|사용 스킬| 개발 내용 |
 | ----- | ------ | ------ |
 |publisher|HTML, Python| 기사 내용을 담을 이메일 폼 추가, 이메일 폼 동적 생성 |
